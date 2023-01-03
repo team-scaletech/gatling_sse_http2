@@ -1,0 +1,10 @@
+{
+  "simulation": "sse_https.ComputerDatabaseSimulation",
+  "simulationId": "computerdatabasesimulation-20230103071345383",
+  "start": 1672730026102,
+  "description": "",
+  "scenarios": ["Users"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,31 @@
+RUN	computerdatabase.ComputerDatabaseSimulation	computerdatabasesimulation	1672662865573	 	3.9.0
+USER	Users	START	1672662866454
+REQUEST		Home	1672662866453	1672662866462	KO	i.g.h.a.s.SseInvalidContentTypeException: Server returned http response with content-type text/html; charset=utf-8
+USER	Users	END	1672662866465
+USER	Users	START	1672662867425
+REQUEST		Home	1672662867425	1672662867431	KO	i.g.h.a.s.SseInvalidContentTypeException: Server returned http response with content-type text/html; charset=utf-8
+USER	Users	END	1672662867431
+USER	Users	START	1672662868426
+REQUEST		Home	1672662868426	1672662868431	KO	i.g.h.a.s.SseInvalidContentTypeException: Server returned http response with content-type text/html; charset=utf-8
+USER	Users	END	1672662868431
+USER	Users	START	1672662869420
+REQUEST		Home	1672662869420	1672662869424	KO	i.g.h.a.s.SseInvalidContentTypeException: Server returned http response with content-type text/html; charset=utf-8
+USER	Users	END	1672662869425
+USER	Users	START	1672662870419
+REQUEST		Home	1672662870419	1672662870424	KO	i.g.h.a.s.SseInvalidContentTypeException: Server returned http response with content-type text/html; charset=utf-8
+USER	Users	END	1672662870424
+USER	Users	START	1672662871419
+REQUEST		Home	1672662871419	1672662871424	KO	i.g.h.a.s.SseInvalidContentTypeException: Server returned http response with content-type text/html; charset=utf-8
+USER	Users	END	1672662871425
+USER	Users	START	1672662872419
+REQUEST		Home	1672662872419	1672662872425	KO	i.g.h.a.s.SseInvalidContentTypeException: Server returned http response with content-type text/html; charset=utf-8
+USER	Users	END	1672662872425
+USER	Users	START	1672662873420
+REQUEST		Home	1672662873420	1672662873425	KO	i.g.h.a.s.SseInvalidContentTypeException: Server returned http response with content-type text/html; charset=utf-8
+USER	Users	END	1672662873425
+USER	Users	START	1672662874420
+REQUEST		Home	1672662874419	1672662874424	KO	i.g.h.a.s.SseInvalidContentTypeException: Server returned http response with content-type text/html; charset=utf-8
+USER	Users	END	1672662874424
+USER	Users	START	1672662875419
+REQUEST		Home	1672662875419	1672662875424	KO	i.g.h.a.s.SseInvalidContentTypeException: Server returned http response with content-type text/html; charset=utf-8
+USER	Users	END	1672662875424
